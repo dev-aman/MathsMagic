@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'MathsMagic'
   s.version          = '1.0.1'
   s.summary          = 'The code base is used to show the world the magic of maths.'
-  s.swift_versions = ['5']
+  s.swift_versions   = ['5']
 
   s.ios.deployment_target  = '13.0'
 # This description is used to generate tags and improve search results.
