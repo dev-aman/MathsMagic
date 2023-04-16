@@ -7,7 +7,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-Orange?style=flat-square)
 [![Platforms](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-iOS-Green?style=flat-square)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/1.0.1-blue?style=flat-square)](https://img.shields.io/cocoapods/v/Alamofire.svg)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/1.0.1-blue?style=flat-square)](https://img.shields.io/cocoapods/v/1.0.1-blue?style=flat-square)
 
 
 ## Example
