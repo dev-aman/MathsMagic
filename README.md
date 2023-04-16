@@ -1,6 +1,6 @@
 # MathsMagic
 
-[![CI Status](https://img.shields.io/travis/Aman Gupta/MathsMagic.svg?style=flat)](https://travis-ci.org/Aman Gupta/MathsMagic)
+[![CI Status](https://img.shields.io/travis/dev-aman/MathsMagic.svg?style=flat)](https://travis-ci.org/dev-aman/MathsMagic)
 [![Version](https://img.shields.io/cocoapods/v/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic)
 [![License](https://img.shields.io/cocoapods/l/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic)
 [![Platform](https://img.shields.io/cocoapods/p/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic)
@@ -22,7 +22,7 @@ pod 'MathsMagic'
 
 ## Author
 
-Aman Gupta, aman.gupta@tokopedia.com
+Aman Gupta, amangupta494@tokopedia.com
 
 ## License
 
