@@ -1,9 +1,14 @@
 # MathsMagic
 
-[![CI Status](https://img.shields.io/travis/dev-aman/MathsMagic.svg?style=flat)](https://travis-ci.org/dev-aman/MathsMagic)
+<!-- [![CI Status](https://img.shields.io/travis/dev-aman/MathsMagic.svg?style=flat)](https://travis-ci.org/dev-aman/MathsMagic)
 [![Version](https://img.shields.io/cocoapods/v/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic)
 [![License](https://img.shields.io/cocoapods/l/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic)
-[![Platform](https://img.shields.io/cocoapods/p/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic)
+[![Platform](https://img.shields.io/cocoapods/p/MathsMagic.svg?style=flat)](https://cocoapods.org/pods/MathsMagic) -->
+
+[![Swift](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-Orange?style=flat-square)
+[![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS_watchOS_Linux_Windows-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS_watchOS_Linux_Windows-Green?style=flat-square)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Alamofire.svg?style=flat-square)](https://img.shields.io/cocoapods/v/Alamofire.svg)
+
 
 ## Example
 
