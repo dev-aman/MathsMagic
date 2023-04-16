@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MathsMagic_Example' do
+  pod 'MathsMagic', :path => '../'
+
+  target 'MathsMagic_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

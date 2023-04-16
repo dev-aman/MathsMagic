@@ -1,0 +1,22 @@
+{
+  "name": "MathsMagic",
+  "version": "0.1.0",
+  "summary": "A short description of MathsMagic.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Aman Gupta/MathsMagic",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Aman Gupta": "aman.gupta@tokopedia.com"
+  },
+  "source": {
+    "git": "https://github.com/Aman Gupta/MathsMagic.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MathsMagic/Classes/**/*"
+}

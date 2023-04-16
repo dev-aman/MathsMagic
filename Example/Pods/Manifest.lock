@@ -1,0 +1,16 @@
+PODS:
+  - MathsMagic (0.1.0)
+
+DEPENDENCIES:
+  - MathsMagic (from `../`)
+
+EXTERNAL SOURCES:
+  MathsMagic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MathsMagic: 32517ca7867799330866994348f411c0a22d232c
+
+PODFILE CHECKSUM: 4a913e6f01756d64fb94c9c4943fc18586c9dea3
+
+COCOAPODS: 1.12.0
