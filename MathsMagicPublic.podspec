@@ -16,9 +16,9 @@ Pod::Spec.new do |s|
   MathMagic pod will be used to show the world the magic of maths.
                             DESC
 
-  s.homepage               = 'https://github.com/dev-aman/MathsMagic'
+  s.homepage               = 'https://github.com/dev-aman/MathsMagicLibrary'
   s.license                = { :type => 'MIT', :file => 'LICENSE' }
-  s.author                 = { 'Aman Gupta' => 'aman.gupta@tokopedia.com' }
-  s.source                 = { :git => 'https://github.com/dev-aman/MathsMagic.git', :tag => s.version }
+  s.author                 = { 'Aman Gupta' => 'amangupta494@gmail.com' }
+  s.source                 = { :git => 'https://github.com/dev-aman/MathsMagicLibrary.git', :tag => s.version }
   s.source_files           = 'MathsMagic/Classes/**/*'
 end
