@@ -239,6 +239,7 @@ WORKSPACE @tokopedia/ios-core-dev
 # asgardians - features
 # discovery
 # deals & event
+/ios/Deals/View/DealsViewController.swift @tokopedia/ios-asgardians
 /ios/Events/Events/ @tokopedia/ios-asgardians
 /ios/Events/EventsIntegrationTests/ @tokopedia/ios-asgardians
 /ios/Events/EventsExample/ @tokopedia/ios-asgardians
