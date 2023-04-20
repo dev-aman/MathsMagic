@@ -238,7 +238,7 @@ WORKSPACE @tokopedia/ios-core-dev
 
 # asgardians - features
 # discovery
-# /ios/Dsicovery/Home
+/ios/Dsicovery/Home
 # deals & event
 /ios/Deals/View/DealsViewController.swift @tokopedia/ios-asgardians
 /ios/Events/Events/ @tokopedia/ios-asgardians
