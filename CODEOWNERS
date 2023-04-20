@@ -191,7 +191,6 @@ WORKSPACE @tokopedia/ios-core-dev
 
 
 # aquaman - features
-/ios/Home/ @tokopedia/ios-aquaman-dev
 /ios/OfficialStore/ @tokopedia/ios-aquaman-dev
 /ios/SearchResult/ @tokopedia/ios-aquaman-dev
 /ios/FilterSort/ @tokopedia/ios-aquaman-dev
@@ -238,9 +237,7 @@ WORKSPACE @tokopedia/ios-core-dev
 
 # asgardians - features
 # discovery
-/ios/Discovery/Home @tokopedia/ios-asgardians
 # deals & event
-/ios/Deals/View/DealsViewController.swift @tokopedia/ios-asgardians
 /ios/Events/Events/ @tokopedia/ios-asgardians
 /ios/Events/EventsIntegrationTests/ @tokopedia/ios-asgardians
 /ios/Events/EventsExample/ @tokopedia/ios-asgardians
