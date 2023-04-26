@@ -240,6 +240,7 @@ WORKSPACE @tokopedia/ios-core-dev
 # discovery
 /ios/Discovery/ @tokopedia/ios-asgardians
 # deals & event
+/ios/Deals @tokopedia/ios-asgardians
 /ios/Events/Events/ @tokopedia/ios-asgardians
 /ios/Events/EventsIntegrationTests/ @tokopedia/ios-asgardians
 /ios/Events/EventsExample/ @tokopedia/ios-asgardians
