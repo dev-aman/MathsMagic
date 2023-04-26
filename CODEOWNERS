@@ -69,6 +69,7 @@ WORKSPACE @tokopedia/ios-core-dev
 /ios/ProductReview/ @tokopedia/ios-joker-dev
 /ios/OfficialStore/ @tokopedia/ios-joker-dev
 /ios/Variant/ @tokopedia/ios-joker-dev
+/ios/Home @tokopedia/ios-joker-dev
 /ios/Home/View/BelanjaPage @tokopedia/ios-joker-dev
 /ios/Atlas/ @tokopedia/ios-core-dev
 /ios/Catalog/ @tokopedia/ios-joker-dev
@@ -237,6 +238,7 @@ WORKSPACE @tokopedia/ios-core-dev
 
 # asgardians - features
 # discovery
+/ios/Discovery/ @tokopedia/ios-asgardians
 # deals & event
 /ios/Events/Events/ @tokopedia/ios-asgardians
 /ios/Events/EventsIntegrationTests/ @tokopedia/ios-asgardians
